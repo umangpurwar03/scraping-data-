@@ -1,2 +1,5 @@
 # scraping-data-
-sellers details
+#sellers details
+phone Numbers
+Address
+and their name
